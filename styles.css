@@ -1,0 +1,21 @@
+img{
+    
+    border-radius: 1cm;
+    align-items: center;
+    padding-left: 100px;
+}
+h2{
+    color: brown;
+    display: flex;
+    padding-left: 15cm;
+   
+}
+h3{
+    color:black;
+    display: flex;
+    padding-left: 15cm;
+    
+}
+span{
+    padding-left: 10cm;
+}
